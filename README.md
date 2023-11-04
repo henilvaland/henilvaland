@@ -13,7 +13,7 @@
 </h3>
 
 <h3>
-    <i>- Currently working at Pardy Panda Studios as Full-Stack Web Developer Intern</i>
+    <i>- Currently working at Zobi Web Solutions as Software Engineer</i>
 </h3>
 <br>
 
