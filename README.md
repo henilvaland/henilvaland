@@ -11,7 +11,6 @@
 <h3>
     <i>- I'm Learning Full Stack Web Development To Get skilled in MERN stack to focus on writing clean, elegant and efficient code.</i>
 </h3>
-<br>
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
